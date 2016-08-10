@@ -3,7 +3,7 @@ title: GREAT GIRL NATASHA
 email: ""
 description: "KEFALONIA AND SUMMER 2016"
 url: "http://altao2016.github.io"
-baseurl: "/myphotorama"
+baseurl: "/natasha-kefalonia"
 facebook_username: ""
 twitter_username: ""
 instagram_username: "girlinthelens"
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://altao2016.github.io/myphotorama/gallery/"  
-  - JOURNAL: "http://altao2016.github.io/myphotorama/journal/"
-  - ABOUT: "http://altao2016.github.io/myphotorama/about/"
+  - GALLERY: "http://altao2016.github.io/natasha-kefalonia/gallery/"  
+  - JOURNAL: "http://altao2016.github.io/natasha-kefalonia/journal/"
+  - ABOUT: "http://altao2016.github.io/natasha-kefalonia/about/"
 
 # All translation keys
 translations:
