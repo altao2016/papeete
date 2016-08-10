@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://altao2016.github.io/natasha-kefalonia/gallery/"  
-  - JOURNAL: "http://altao2016.github.io/natasha-kefalonia/journal/"
-  - ABOUT: "http://altao2016.github.io/natasha-kefalonia/about/"
+  - GALLERY: "http://altao2016.github.io/papeete/gallery/"  
+  - JOURNAL: "http://altao2016.github.io/papeete/journal/"
+  - ABOUT: "http://altao2016.github.io/papeete/about/"
 
 # All translation keys
 translations:
